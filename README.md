@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeherabHossainBhuiyan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 I am currently living in Bangladesh
 
