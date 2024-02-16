@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeherabHossainBhuiyan
 - 👀 I’m interested in Web Development and AI learning with Python (beginner)
-- 🌱 I’m currently learning HTML, CSS & JavaScript(React.js) and learning Python is also one of my hobbies
+- 🌱 I’m currently Learning MERN stack and learning Python is also one of my dreams and hobbies
 - 🎓 I'm currently studying at Cumilla Polytechnic Institute.
 - 📫 How to reach me :) 
 - 🟦 FaceBook : https://www.facebook.com/meherab2003
