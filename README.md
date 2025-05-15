@@ -14,9 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabHossainBhuiyan&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=MeherabHossainBhuiyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 > **“undefined is not a function (but it could be).”**  
 > — _JavaScript developer at 2 a.m._
-
 ![](https://github-contributor-stats.vercel.app/api?username=MeherabHossainBhuiyan&limit=5&theme=transparent&combine_all_yearly_contributions=true)
