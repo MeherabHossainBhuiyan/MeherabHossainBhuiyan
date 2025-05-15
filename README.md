@@ -1,8 +1,8 @@
 <img src="head.png" width="100%" />
 
-### I love programming and Javascript is my first love💖
-
-
+> **“undefined is not a function (but it could be).”**  
+> — _JavaScript developer at 2 a.m._
+> 
 ###  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meherab2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meherab03) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/greamyblade) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meherab_03) 
 
@@ -15,7 +15,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=MeherabHossainBhuiyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-> **“undefined is not a function (but it could be).”**  
-> — _JavaScript developer at 2 a.m._
-> 
 ![](https://github-contributor-stats.vercel.app/api?username=MeherabHossainBhuiyan&limit=5&theme=transparent&combine_all_yearly_contributions=true)
